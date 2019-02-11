@@ -1,9 +1,9 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: xenta-mdm-themes-gdm
-Source: https://github.com/xentaos/xenta-mdm-themes
+Source: https://github.com/xentaoslinux/xenta-mdm-themes
 
 Files: debian/*
-Copyright: 2017 Dindin Hernawan (Xenta OS) <root@dev.xentaos.org>
+Copyright: 2017 Dindin Hernawan (Xenta OS) <dindin_hernawan@yahoo.com>
            2012-2014 Clement Lefebvre <root@linuxmint.com>
 
 License: GPL-2+

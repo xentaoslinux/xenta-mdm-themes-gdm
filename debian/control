@@ -1,11 +1,11 @@
 Source: xenta-mdm-themes-gdm
 Section: x11
 Priority: optional
-Maintainer: Dindin Hernawan (Xenta OS) <root@dev.xentaos.org>
+Maintainer: Dindin Hernawan (Xenta OS) <dindin_hernawan@yahoo.com>
 Build-Depends: debhelper (>=9)
 Standards-Version: 3.9.7
-Homepage: https://github.com/xentaos/xenta-mdm-themes-gdm
-Vcs-Browser: https://github.com/xentaos/xenta-mdm-themes-gdm.git
+Homepage: https://github.com/xentaoslinux/xenta-mdm-themes-gdm
+Vcs-Browser: https://github.com/xentaoslinux/xenta-mdm-themes-gdm.git
 
 Package: xenta-mdm-themes-gdm
 Architecture: all
